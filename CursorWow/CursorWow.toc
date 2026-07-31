@@ -1,0 +1,9 @@
+## Interface: 120007
+## Title: CursorWow
+## Notes: Personnalise l'apparence du curseur (forme, couleur, taille)
+## Author: James
+## Version: 1.0.0
+## SavedVariables: CursorWowDB
+
+Core.lua
+Options.lua
