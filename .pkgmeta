@@ -1,0 +1,7 @@
+package-as: CursorWow
+ignore:
+  - docs
+  - Screenshot
+  - logo.svg
+  - logo.png
+  - .github

@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>CursorWow logo</title>
+<desc>Un rond dore lumineux sur fond sombre arrondi, evoquant le repere de curseur de l'addon.</desc>
+<defs>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#ffd27a"/>
+<stop offset="55%" stop-color="#f5a623"/>
+<stop offset="100%" stop-color="#c97e10"/>
+</radialGradient>
+</defs>
+<rect x="0" y="0" width="512" height="512" rx="96" fill="#1a1512"/>
+<rect x="16" y="16" width="480" height="480" rx="84" fill="none" stroke="#3a2f26" stroke-width="4"/>
+<circle cx="330" cy="330" r="118" fill="url(#glow)"/>
+<circle cx="330" cy="330" r="118" fill="none" stroke="#ffe9c2" stroke-width="6"/>
+<path d="M160 120 L160 300 L206 260 L236 330 L262 318 L232 250 L292 250 Z" fill="#f4f1ea" stroke="#1a1512" stroke-width="6" stroke-linejoin="round"/>
+</svg>
