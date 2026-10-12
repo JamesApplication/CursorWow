@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120105
 ## Title: CursorWow
 ## Notes: Personnalise l'apparence du curseur (forme, couleur, taille)
 ## Author: James
