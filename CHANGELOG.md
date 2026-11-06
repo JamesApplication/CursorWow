@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 2026-11-06
+
+### Modifié
+- Support de l'interface 12.1.7
+
 ## [1.0.2] - 2026-10-13
 
 ### Modifié
